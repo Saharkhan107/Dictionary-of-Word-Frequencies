@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Dictionary-of-Word-Frequencies", "Dictionary-of-Word-Frequencies\Dictionary-of-Word-Frequencies.pyproj", "{F66B79AD-C1AD-46EA-B130-CF35D263FA0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F66B79AD-C1AD-46EA-B130-CF35D263FA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F66B79AD-C1AD-46EA-B130-CF35D263FA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95CB196A-2BCC-4A60-8E58-0CEFC3A84EF5}
+	EndGlobalSection
+EndGlobal
